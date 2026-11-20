@@ -242,6 +242,7 @@ with tab2:
         else:
             st.write("Folder ini masih kosong.")
 
+
 # --- TAB 3: KELOLA ATURAN ---
 with tab3:
     st.subheader(":material/label: Daftar Kata Kunci Aktif")
@@ -251,3 +252,16 @@ with tab3:
         with st.container(border=True):
             st.markdown(f"**:material/folder: {folder}**")
             st.markdown(f"Kata kunci: `{', '.join(kws)}`")
+
+# ==========================================
+# 5. FOOTER
+# ==========================================
+st.divider()
+st.markdown(
+    """
+    <div style='text-align: center; color: gray; font-size: 0.9em; padding: 10px 0;'>
+        Built with Python & Streamlit • <b>by Hilmy</b>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
