@@ -1,0 +1,39 @@
+{
+    "Enterpreneurship": [
+        "enterpreneur",
+        "entrepreneur",
+        "kewirausahaan",
+        "bisnis plan",
+        "bmc"
+    ],
+    "Algoritma_Pemrograman": [
+        "algo",
+        "algoritma",
+        "flowchart",
+        "pseudocode",
+        "python"
+    ],
+    "Basis_Data": [
+        "basis_data",
+        "basis data",
+        "database",
+        "normalisasi",
+        "sql",
+        "erd"
+    ],
+    "Pemrograman_Web": [
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "frontend",
+        "web"
+    ],
+    "Sistem_Informasi": [
+        "sistem informasi",
+        "uml",
+        "use case",
+        "sdlc",
+        "analisis sistem"
+    ]
+}

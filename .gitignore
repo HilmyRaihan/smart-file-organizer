@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+Arsip_Terorganisir/
+file_tes_dummy/
+riwayat_pemindahan.csv
+*.pyc
